@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahmoud Mohamed
+# 👋 Hi, I'm Mahmoud Abdullah Abdo
 
 - 💼 Currently working as a **Mechanical Engineer** with practical experience in industrial systems and data analysis.
 - 📱 Transitioning into **Mobile Development with Flutter**, applying modern principles such as **Bloc, Clean Architecture, Local Databases (Drift), and Supabase integration**.
